@@ -1,0 +1,5 @@
+# Thoughts
+My first thought was to reverse the string until I remembered seeing a video where the person explained the two-pointer algorithm and how its more efficient. The algorithm involves
+instatiating a left and right pointer, where left is the beginning character of the string and right is the end character of the string. For each iteration while the left index is
+smaller than the right index, we check if the character at each pointer is the same. The problem was conceptually easy, I struggled the most on taking the original string and trying to
+remember the syntax to convert it into an alphanumerical-string only.
